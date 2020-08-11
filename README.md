@@ -1,0 +1,1 @@
+# kaprekar-s-constant-6174
