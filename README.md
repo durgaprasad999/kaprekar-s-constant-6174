@@ -5,22 +5,12 @@ An illustration:
 
 Take a 4-digit number like 3215. Rearranging to form the largest and smallest with these digits, we get 5321 and1235. Now, subtract them: 5321-1235 = 4086. Continue with the process of rearranging and subtracting:
 
-\begin{aligned} 8640-0468&=8172\\ 8721-1278&=7443\\ 7443-3447&=3996\\ 9963-3699&=6264\\ 6642-2466&=4176\\ 7641-1467&=6174. \end{aligned}
-8640−0468
-8721−1278
-7443−3447
-9963−3699
-6642−2466
-7641−1467
-​	
-  
-=8172
-=7443
-=3996
-=6264
-=4176
-=6174.
-​	
- 
+
+8640−0468 =8172
+8721−1278 =7443
+7443−3447 =3996
+9963−3699 =6264
+6642−2466 =4176
+7641−1467 =6174.
 
 We stop here since we will only get into a loop and keep getting 6174
