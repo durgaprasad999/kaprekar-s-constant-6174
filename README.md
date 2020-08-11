@@ -7,10 +7,15 @@ Take a 4-digit number like 3215. Rearranging to form the largest and smallest wi
 
 
 8640−0468 =8172
+
 8721−1278 =7443
+
 7443−3447 =3996
+
 9963−3699 =6264
+
 6642−2466 =4176
+
 7641−1467 =6174.
 
 We stop here since we will only get into a loop and keep getting 6174
